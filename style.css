@@ -1156,6 +1156,8 @@ a {
     object-fit: cover;
     display: block;
 }
-.project-image {
-    height: 160px;
+@media (max-width: 600px) {
+    .project-image {
+        height: 160px;
+    }
 }
