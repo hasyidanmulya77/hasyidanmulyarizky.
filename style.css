@@ -1154,3 +1154,15 @@ a {
   object-fit: cover; /* foto tetap penuh & tidak gepeng */
   display: block;
 }
+.project-image {
+    width: 100%;
+    height: 220px; /* sesuaikan dengan tinggi header aslinya */
+    overflow: hidden;
+}
+
+.project-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
