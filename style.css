@@ -501,29 +501,6 @@ a {
     border-color: #0ea5e9;
 }
 
-.project-image {
-    min-height: 190px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    padding: 20px;
-
-    background:
-        linear-gradient(
-            135deg,
-            #0f172a,
-            #1e293b
-        );
-
-    color: #38bdf8;
-    font-size: 30px;
-    font-weight: 800;
-    letter-spacing: 4px;
-
-    text-align: center;
-}
 
 .project-content {
     padding: 28px;
