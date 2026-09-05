@@ -1141,8 +1141,8 @@ a {
 .download-cv-btn {
   display: inline-block;
   padding: 12px 28px;
-  background-color: #ffffff;
-  color: #1e88e5;
+  background-color:transparent;
+  color: #ffffff;
   font-weight: 600;
   border-radius: 8px;
   text-decoration: none;
@@ -1151,6 +1151,6 @@ a {
 }
 
 .download-cv-btn:hover {
-  background-color: transparent;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #0ea5e9;
 }
